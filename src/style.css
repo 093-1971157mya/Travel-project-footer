@@ -1,11 +1,12 @@
 body {
   font-family: "Poppins", sans-serif;
-  background: #272044;
+  background: #9d0e6b6b;
 }
 
 .container {
   max-width: 1400px;
   margin: 0 auto;
+  
 }
 
 .grid {
@@ -32,11 +33,11 @@ section {
 }
 
 header {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+  background-image: linear-gradient(rgba(180, 219, 55, 0.6), rgba(0, 0, 0, 0.6)),
     url("../images/lisbon.png");
   background-repeat: no-repeat;
   background-size: cover;
-  color: white;
+  color: rgba(163, 17, 27, 0.415);
   text-align: center;
   padding: 200px 0;
 }
@@ -68,18 +69,18 @@ header a {
   font-size: 14px;
   line-height: 1.5;
   text-align: center;
-  color: #272044;
+  color: #3f17df;
   padding: 16px 32px;
   margin-top: 32px;
   display: inline-block;
   letter-spacing: 3px;
   text-decoration: none;
   text-transform: uppercase;
-  background: white;
+  background: rgb(174, 210, 106);
 }
 
 main {
-  background-color: white;
+  background-color: rgb(119, 217, 234);
 }
 
 main h2 {
